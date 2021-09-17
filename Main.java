@@ -1,3 +1,14 @@
+//https://www.oracle.com/java/technologies/downloads/  jdk download link for mac/linux/windows
+//https://www.youtube.com/watch?v=KwnavHTOBiA  download and install video -- just in case
+
+// package com.company at the top means you MUST have src/com/company/Main.java  (Main.java is the file that uses the package)  
+// vscode needs the Extension Pack for Java, that should do everything. 
+ 
+// On the left, when you collapse all your files, there's a dropdown "java projects" that has '+' to create a new java project. 
+//You select your location, then in VSCode it will prompt you to give it a project name.
+// You have to do that for the file to use all the Java stuff.
+
+
 package com.company;
 
 
