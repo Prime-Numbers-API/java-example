@@ -8,6 +8,7 @@
 // You have to do that for the file to use all the Java stuff.
 
 // package com.company at the top means you MUST have src/com/company/Main.java  (Main.java is the file that uses the package)  
+//--> you can mouse over the red error, and there is often a quick fix option that will do this kind of thing for you
 
 //Oh and right click anywhere in the file, and select 'Run Java' or click the play button at the top right
 package com.company;
