@@ -20,7 +20,8 @@ Whether you're just looking for efficient server-to-server communication, or you
 | API Plan Name                       | Free                      | Maths is Fun              | Scientist                 | Expert                    |
 |-------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | Price / month                       |  $0.00                    |  $7.99                    |  $19.99                   |  $29.99                   |
-| Summary                             | Membership Subscription.. | Membership Subscription.. | Membership Subscription.. | Membership Subscription.. |
+| Summary                             | Ideal for Maths Enthusiasts or for an opportunity to test drive the system for free | Ideal for Maths Enthusiasts and Educators alike.  | Ideal for Big Data, Machine Learning, Artificial Intelligence, Robotics and Internet of Things Scientists as well as for Web and App Developers. | Ideal for System Administrators and Security Experts. |
+| FREE API Key refresh                       |  Automatically, 1st of every month 	                   |  When you need it                    |  When you need it                   |  When you need it  
 | Max calls limits                    |                           |                           |                           |                           |
 | Maximum calls per day               |  100                      |  1 000                    |  3 000                    |  5 000                    |
 | Maximum calls per second            |  1                        |  3                        |  5                        |  10                       |
