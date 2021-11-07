@@ -2,7 +2,7 @@
 
 Welcome to Prime Numbers API (http://prime-numbers-api.com), the largest commercial database of prime numbers in the world!
 
-Here we have more than 2.66 billion primes curated from the first 121 billion composite numbers, and counting!
+Here we have more than 5 billion curated primes from the first 130 billion composite numbers, and counting!
 
 
 
