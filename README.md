@@ -69,6 +69,7 @@ ___
 * NodeJS: https://github.com/Prime-Numbers-API/node-example
 * Python: https://github.com/Prime-Numbers-API/python-example
 * PHP: https://github.com/Prime-Numbers-API/php-example
+* WordPress Plugin: https://github.com/Prime-Numbers-API/wordpress-plugin-example
 * Java: https://github.com/Prime-Numbers-API/java-example
 * C: https://github.com/Prime-Numbers-API/c-example
 
