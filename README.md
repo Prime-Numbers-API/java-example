@@ -32,8 +32,8 @@ Whether you're just looking for efficient server-to-server communication, or you
 | get-all-primes-between-two-numbers  |  x                        |  x                        |  included                 |  included                 |
 | get-isolated-random-prime           |  x                        |  x                        |  x                        |  included                 |
 | Support availability                |                           |                           |                           |                           |
-| forum                               |  included                 |  included                 |  included                 |  included                 |
-| by email                            |  x                        |  included                 |  included                 |  included                 |
+| Help Centre                               |  included                 |  included                 |  included                 |  included                 |
+| Support Tickets                            |  x                        |  included                 |  included                 |  included                 |
 
 
 ### [Authentication](http://prime-numbers-api-docs.com)
