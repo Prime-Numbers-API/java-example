@@ -28,7 +28,7 @@ public class getRandomPrime {
             //create our client
             HttpClient client = HttpClient.newHttpClient();
 
-            String apiKey = "123";
+            String apiKey = "YOUR_API_KEY";
             String base_url = "http://api.prime-numbers.io";
             String start = "60309232769";
             String end = "60309232769";

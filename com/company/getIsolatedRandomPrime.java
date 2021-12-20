@@ -12,7 +12,7 @@ public class getIsolatedRandomPrime {
         //create our client
         HttpClient client = HttpClient.newHttpClient();
 
-        String apiKey = "123";
+        String apiKey = "YOUR_API_KEY";
         String base_url = "http://api.prime-numbers.io";
         String minimum_combined_prime_gap = "500";
         String forced_number = "60309232769";
