@@ -1,22 +1,45 @@
-# [Prime-numbers-API ](http://prime-numbers-api.com)
+# [Prime-numbers-API ](https://prime-numbers-api.com)
 
-Welcome to Prime Numbers API (http://prime-numbers-api.com), the largest commercial database of prime numbers in the world!
+Welcome to Prime Numbers API (https://prime-numbers-api.com), the largest commercial database of prime numbers in the world!
 
-Here we have more than 5 billion curated primes from the first 130 billion composite numbers, and counting!
+Here we have more than __5 billion__ curated primes from the first __130 billion composite numbers__, and counting!
 
 
 
-### [Overview](http://prime-numbers-api-docs.com)
+### [Overview](https://prime-numbers-api.com/index.php?route=journal3/blog)
 Whether you're a scientist, security expert, or you simply love math, Prime Numbers has something to offer you!
 
-We've translated the output in 8 of the most commonly used languages, not counting English of course. With these languages covering some 89% of the world population, this is now the most accessible API for finding prime numbers in the world!
+In the last 3 and a half years, we've invested over 1 500 human-hours, over 50 000 computer-hours, with an average processing speed of 4 300 composite numbers per second while using 100% green energy. We've taken the leg work out of finding primes, so you can focus on using them.
 
-The API results have a multitude of outputs, with each level being configurable. These range from simple and fast to the incredibly verbose, with extensive explanations for each field. 
+We've also translated the output into 8 of the most commonly used languages, including __Mandarin__, __Hindi__, __Spanish__, __French__, __German__, __Italian__, __Japanese__, and __Russian __, making the Prime Numbers the most accessible API for finding prime numbers in the world!
+
+If you’re looking for help with encryption, gain access to our __exclusive isolated primes endpoint__ and you can filter for rare primes that lie at least 200, and even up to 500+ numbers away from their closest neighbors! The average probability of finding one of the isolated prime numbers by accident is 1 in over 800,000 (or 0.000124565509%)! The chances of being struck by lightning are 1 in 500,000! Now that’s a strong password!
+
+Our API conveniently translates the language of your smart devices. Every number is returned with its respective translation into binary, senary, and hexa values.
+
+Furthermore, each prime number you receive from the API is home-grown, curated, and 100% genuine; and it even comes with its very own __birth certificate__! No copies, clones, or placeholders here! 
+
+The API results have a multitude of configurations. These range from simple and fast to incredibly verbose, with extensive explanations for each field. Whether you're looking for efficient server-to-server communication or you're in need of prime numbers for educational or research purposes, the results can be custom-tailored to suit your needs!
+
+With these prime types outputs, you can determine:
+* __Isolated__: rare prime numbers with an average density of 0.000124565509% that are 200 to 500+ composite numbers away from each of their neighbours
+* __Palindromes__: primes which reads the same backwards as forwards (examples: 101, 373, 919)
+* __Twins__: primes that are no more than 2 composite numbers from each other (examples: (5, 7), (11, 13), (17, 19))
+* __Cousins__: primes that are no more than 4 composite numbers from each other (examples: (7, 11), (37, 41), (43, 47))
+* __Sexys__: primes that are no more than 6 composite numbers from each other (examples: (7,13), (13,19), (23,29))
+* __Reversibles__: primes that become a different prime when their decimal digits are reversed (examples: 37, 107, 149)
+* __Pandigitals__: primes in a base has at least one instance of each base digit (examples: 2143 (base 4), 7654321 (base 7))
+* __Repunits__: primes are positive integers in which every digit is one (examples: 11, 1111111111111111111)
+* __Mersenne__: primes that is of the form 2n - 1 (one less than a power of two) for some integer n (examples: 3 (2^2 - 1), 7 (2^3 - 1), 31 (2^5 - 1) )
+* __Fibonacci__: primes that are also Fibonacci numbers (examples: 89, 233, 1597)
+* __Prime type densities__: how many prime type numbers in percentage can be found in every million composite numbers
+* ...and so much more!
+ 
 
 Whether you're just looking for efficient server-to-server communication, or you're in need of prime numbers for educational or research purposes, the results can be custom tailored to suit your needs!
 
 
-## [API Price Plans](http://prime-numbers-api.com) (http://prime-numbers-api.com)
+## [API Price Plans](https://prime-numbers-api.com) (https://prime-numbers-api.com)
 | API Plan Name                       | Free                      | Maths is Fun              | Scientist                 | Expert                    |
 |-------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
 | Price / month                       |  $0.00                    |  $7.99                    |  $19.99                   |  $29.99                   |
