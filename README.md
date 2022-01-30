@@ -11,7 +11,7 @@ Whether you're a scientist, security expert, or you simply love math, Prime Numb
 
 In the last 3 and a half years, we've invested over 1 500 human-hours, over 50 000 computer-hours, with an average processing speed of 4 300 composite numbers per second while using 100% green energy. We've taken the leg work out of finding primes, so you can focus on using them.
 
-We've also translated the output into 8 of the most commonly used languages, including __Mandarin__, __Hindi__, __Spanish__, __French__, __German__, __Italian__, __Japanese__, and __Russian __, making the Prime Numbers the most accessible API for finding prime numbers in the world!
+We've also translated the output into 8 of the most commonly used languages, including __Mandarin__, __Hindi__, __Spanish__, __French__, __German__, __Italian__, __Japanese__, and __Russian__, making the Prime Numbers the most accessible API for finding prime numbers in the world!
 
 If you’re looking for help with encryption, gain access to our __exclusive isolated primes endpoint__ and you can filter for rare primes that lie at least 200, and even up to 500+ numbers away from their closest neighbors! The average probability of finding one of the isolated prime numbers by accident is 1 in over 800,000 (or 0.000124565509%)! The chances of being struck by lightning are 1 in 500,000! Now that’s a strong password!
 
@@ -59,13 +59,13 @@ Whether you're just looking for efficient server-to-server communication, or you
 | Support Tickets                            |  x                        |  included                 |  included                 |  included                 |
 
 
-### [Authentication](http://prime-numbers-api-docs.com)
+### [Authentication](https://prime-numbers-api.com/index.php?route=journal3/blog)
 Authenticate using the API key with extra security provided by the domain name and IP address locks (the API requests are only accepted from your IP or domain name)
 
 
 
 
-### [Status Codes](http://prime-numbers-api-docs.com)
+### [Status Codes](https://prime-numbers-api.com/index.php?route=journal3/blog)
 * 200 OK
 * 403 user not found
 * 404 no results found
@@ -73,16 +73,28 @@ Authenticate using the API key with extra security provided by the domain name a
 
 
 
-### [Rate limits](http://prime-numbers-api-docs.com)
+### [Rate limits](https://prime-numbers-api.com/index.php?route=journal3/blog)
 * Maximum calls per second: 1
 * Maximum calls per day: 100
 
 
 
 
-### [Output Format](http://prime-numbers-api-docs.com)
+### [Output Format](https://prime-numbers-api.com/index.php?route=journal3/blog)
 * JSON
 
+___
+
+
+### [Usefull Links](https://prime-numbers-api.com/index.php?route=journal3/blog)
+
+* Full documentation: https://prime-numbers-api.com/index.php?route=journal3/blog
+* Swagger OpenAPI: https://swagger.prime-numbers-api.com/
+* Download Swagger YML file: https://swagger.prime-numbers-api.com/prime-numbers.io_open_api_collection.yml
+* Download Postman Collection: http://prime-numbers-api.com/downloads/prime-numbers-api.postman_collection.json
+* Download Postman Environment: http://prime-numbers-api.com/downloads/prime-numbers.io.postman_environment.json
+* Frequently Asked Questions: https://prime-numbers-api.com/index.php?route=information/information&information_id=7
+* Help Centre: http://help.prime-numbers-api.com/
 ___
 
 ### Other Prime-numbers-API code examples
