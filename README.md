@@ -2,7 +2,7 @@
 
 Welcome to Prime Numbers API (https://prime-numbers-api.com), the largest commercial database of prime numbers in the world!
 
-Here we have more than __5 billion__ curated primes from the first __130 billion composite numbers__, and counting!
+Here we have more than __5 billion__ curated primes from the first __150 billion composite numbers__, and counting!
 
 
 
@@ -86,6 +86,86 @@ Authenticate using the API key with extra security provided by the domain name a
 ___
 
 
+### Example API response
+* Get Random Prime API endpoint in English:
+```json
+{
+    "random_prime_number_value": 121732227053,
+    "base_conversions": {
+        "binary_value": "1110001010111110011100101111111101101",
+        "binary_value_explanation": "prime number base-2 (binary value), useful for cryptography and cryptocurrency",
+        "senary_value": "131531212033125",
+        "senary_value_explanation": "prime number base-6 (senary value), useful for mathematical research",
+        "hexa_value": "1c57ce5fed",
+        "hexa_value_explanation": "prime number base-16 (hexa value), useful for cryptography and cryptocurrency"
+    },
+    "previous_prime_gap": 4,
+    "previous_prime_gap_explanation": "how many successive prime and composite numbers are between this prime and the previous one",
+    "prime_density": "3.92090000",
+    "prime_density_explanation": "how many prime numbers (%) can be found in this million composite numbers (between 121 732 000 000 and 121 733 000 000)",
+    "isolated_primes": {
+        "is_isolated_prime": "false",
+        "is_isolated_prime_explanation": "prime numbers that are more than 100 composite numbers away from each of their neighbours, with an average density of %",
+        "isolated_prime_density": "unknown",
+        "isolated_prime_density_explanation": "how many chances (%) to randomly find an isolated prime number in this million composite numbers (between 121 732 000 000 and 121 733 000 000)"
+    },
+    "prime_types": {
+        "is_palindrome": "false",
+        "palindrome_explanation": "number that is simultaneously palindromic (which reads the same backwards as forwards) and prime (examples: 2, 3, 5, 7, 11, 101, 131, 151, 181, 191, 313, 353, 373, 383, 727, 757, 787, 797, 919, 929) (reference: https://en.wikipedia.org/wiki/Palindromic_prime)",
+        "palindrome_percentage": "0.00000000",
+        "palindrome_density_explanation": "how many palindrome prime numbers (%) can be found in this million composite numbers (between 121 732 000 000 and 121 733 000 000)",
+        "is_twin": "false",
+        "twin_explanation": "primes that are no more than 2 composite numbers from each other (examples: (3, 5), (5, 7), (11, 13), (17, 19)) (reference: https://en.wikipedia.org/wiki/Twin_prime)",
+        "twin_percentage": "0.40500000",
+        "twin_density_explanation": "how many twin prime numbers (%) can be found in this million composite numbers (between 121 732 000 000 and 121 733 000 000)",
+        "is_cousin": "true",
+        "cousin_value": 121732227049,
+        "cousin_explanation": "primes that are no more than 4 composite numbers from each other (examples: (3, 7), (7, 11), (13, 17), (19, 23), (37, 41), (43, 47)) (reference: https://en.wikipedia.org/wiki/Cousin_prime)",
+        "cousin_percentage": "0.40380000",
+        "cousin_density_explanation": "how many cousin prime numbers (%) can be found in this million composite numbers (between 121 732 000 000 and 121 733 000 000)",
+        "is_sexy": "true",
+        "sexy_value": 121732227059,
+        "sexy_explanation": "primes that are no more than 6 composite numbers from each other (examples: (5,11), (7,13), (11,17), (13,19), (17,23), (23,29)) (reference: https://en.wikipedia.org/wiki/Sexy_prime)",
+        "sexy_percentage": "0.71050000",
+        "sexy_density_explanation": "how many sexy prime numbers (%) can be found in this million composite numbers (between 121 732 000 000 and 121 733 000 000)",
+        "is_reversible": "false",
+        "reversible_explanation": "primes that become a different prime when their decimal digits are reversed. The name emirp is obtained by reversing the word prime (examples: 13, 17, 31, 37, 71, 73, 79, 97, 107, 113, 149, 157) (reference: https://en.wikipedia.org/wiki/Emirp)",
+        "reversible_percentage": "0.61090000",
+        "reversible_density_explanation": "how many reversible prime numbers (%) can be found in this million composite numbers (between 121 732 000 000 and 121 733 000 000)",
+        "is_pandigital": "false",
+        "pandigital_explanation": "pandigital prime in a base has at least one instance of each base digit. (examples: 2143 (base 4), 7654321 (base 7)) (reference: https://www.xarg.org/puzzle/project-euler/problem-41/)",
+        "pandigital_percentage": "0.00000000",
+        "pandigital_density_explanation": "how many pandigital prime numbers (%) can be found in this million composite numbers (between 121 732 000 000 and 121 733 000 000)",
+        "is_repunit": "false",
+        "repunit_explanation": "repunits primes are positive integers in which every digit is one (examples: 11, 1111111111111111111) (reference: https://primes.utm.edu/glossary/page.php?sort=Repunit)",
+        "repunit_percentage": "0.00000000",
+        "repunit_density_explanation": "how many repunit prime numbers (%) can be found in this million composite numbers (between 121 732 000 000 and 121 733 000 000)",
+        "is_mersenne": "false",
+        "mersenne_explanation": "mersenne prime is a prime number that is of the form 2^n - 1 (one less than a power of two) for some integer n. They are named after Marin Mersenne (1588-1648), a French monk who studied them in his Cogitata Physica-Mathematica (1644) (examples: 3 (2^2 - 1), 7 (2^3 - 1), 31 (2^5 - 1) ) (reference: https://www.mersenne.org/)",
+        "mersenne_percentage": "0.00000000",
+        "mersenne_density_explanation": "how many mersenne prime numbers (%) can be found in this million composite numbers (between 121 732 000 000 and 121 733 000 000)",
+        "is_fibonacci": "false",
+        "fibonacci_explanation": "prime numbers that are also Fibonacci numbers (examples: 2, 3, 5, 13, 89, 233, 1597) (reference: https://oeis.org/A005478)",
+        "fibonacci_percentage": "0.00000000",
+        "fibonacci_density_explanation": "how many fibonacci prime numbers (%) can be found in this million composite numbers (between 121 732 000 000 and 121 733 000 000)"
+    },
+    "prime_senses": {
+        "color": "#23c48b (greenblue)",
+        "sound": "E5 (equal tuning frequency at 440 Hz: 659.26Hz MIDI note number: 76)",
+        "smell": "cinnamon",
+        "taste": "moss",
+        "touch": "lacquered wood floor",
+        "feeling": "absorbed",
+        "senses_explanation": "explore the random positioning of primes among their neighboring composite numbers with all your senses as each composite number sequentially matches the corresponding sense variations; our library includes: 900+ colors (shades), 100+ sounds (MIDI notes), 800+ tastes (savors), 100+ smells (scents), 100+ types of tactile sense (touch), and 350+ feelings (emotions); multi-sensorial pattern recognition is useful for education and research"
+    },
+    "birth_certificate": "2021-09-05 20:06:56: server walle processed 348 901 computations in 5.8150242918428 micro-seconds using 2 x 3 GHz Deca-Core Intel Xeon CPUs",
+    "birth_certificate_explanation": "how many computations, how much time and what computer power was used to find this prime number"
+}
+```
+
+___
+
+
 ### [Usefull Links](https://prime-numbers-api.com/index.php?route=journal3/blog)
 
 * Full documentation: https://prime-numbers-api.com/index.php?route=journal3/blog
@@ -95,6 +175,21 @@ ___
 * Download Postman Environment: http://prime-numbers-api.com/downloads/prime-numbers.io.postman_environment.json
 * Frequently Asked Questions: https://prime-numbers-api.com/index.php?route=information/information&information_id=7
 * Help Centre: http://help.prime-numbers-api.com/
+* Service Status: https://prime-numbers-api.site24x7signals.eu/
+___
+
+### [Prime Senses](https://sense.prime-numbers-api.com/) (https://sense.prime-numbers-api.com)
+Explore the world of Prime Numbers with all your senses!
+> Multi-sensorial pattern recognition is useful for education and research as each composite number sequentially matches the corresponding sense variations. 
+
+Our Library Includes:
+* 900+ colors (shades)
+* 100+ sounds (MIDI notes)
+* 800+ tastes (savors)
+* 100+ smells (scents)
+* 100+ types of tactile sense (touch)
+* 350+ feelings (emotions)
+
 ___
 
 ### Other Prime-numbers-API code examples
