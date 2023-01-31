@@ -1,17 +1,17 @@
 # [Prime-numbers-API ](https://prime-numbers-api.com)
 
-Welcome to Prime Numbers API (https://prime-numbers-api.com), the largest commercial database of prime numbers in the world!
+Welcome to Prime Numbers API (https://prime-numbers-api.com), the largest commercial database of prime numbers in the world! 
 
-Here we have more than __5 billion__ curated primes from the first __150 billion composite numbers__, and counting!
-
+Here we have more than __8.1 billion__ curated primes from the first __200 billion composite numbers__, and counting!
 
 
 ### [Overview](https://prime-numbers-api.com/index.php?route=journal3/blog)
 Whether you're a scientist, security expert, or you simply love math, Prime Numbers has something to offer you!
 
-In the last 3 and a half years, we've invested over 1 500 human-hours, over 50 000 computer-hours, with an average processing speed of 4 300 composite numbers per second while using 100% green energy. We've taken the leg work out of finding primes, so you can focus on using them.
+In the last 5 years, we've invested over 3 000 human-hours, over 100 000 computer-hours, with an average processing speed of 400 million composite numbers per day while using 100% green energy. We've taken the leg work out of finding primes, so you can focus on using them. 
 
 We've also translated the output into 8 of the most commonly used languages, including __Mandarin__, __Hindi__, __Spanish__, __French__, __German__, __Italian__, __Japanese__, and __Russian__, making the Prime Numbers the most accessible API for finding prime numbers in the world!
+#### Try it for Free: http://try.prime-numbers.io/
 
 If you’re looking for help with encryption, gain access to our __exclusive isolated primes endpoint__ and you can filter for rare primes that lie at least 200, and even up to 500+ numbers away from their closest neighbors! The average probability of finding one of the isolated prime numbers by accident is 1 in over 800,000 (or 0.000124565509%)! The chances of being struck by lightning are 1 in 500,000! Now that’s a strong password!
 
@@ -42,7 +42,7 @@ Whether you're just looking for efficient server-to-server communication, or you
 ## [API Price Plans](https://prime-numbers-api.com) (https://prime-numbers-api.com)
 | API Plan Name                       | Free                      | Maths is Fun              | Scientist                 | Expert                    |
 |-------------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
-| Price / month                       |  $0.00                    |  $7.99                    |  $19.99                   |  $29.99                   |
+| Price / month                       |  0.00                    |  £7.99 (approx. $12 or €11)                    |  £19.99 (approx. $31 or €28)                   |  £29.99 (approx. $47 or €43)                   |
 | Summary                             | Ideal for Maths Enthusiasts or for an opportunity to test drive the system for free | Ideal for Maths Enthusiasts and Educators alike.  | Ideal for Big Data, Machine Learning, Artificial Intelligence, Robotics and Internet of Things Scientists as well as for Web and App Developers. | Ideal for System Administrators and Security Experts. |
 | FREE API Key refresh                       |  Automatically, 1st of every month 	                   |  When you need it                    |  When you need it                   |  When you need it  
 | Max calls limits                    |                           |                           |                           |                           |
@@ -168,6 +168,7 @@ ___
 
 ### [Usefull Links](https://prime-numbers-api.com/index.php?route=journal3/blog)
 
+* Try it for Free: http://try.prime-numbers.io/
 * Full documentation: https://prime-numbers-api.com/index.php?route=journal3/blog
 * Swagger OpenAPI: https://swagger.prime-numbers-api.com/
 * Download Swagger YML file: https://swagger.prime-numbers-api.com/prime-numbers.io_open_api_collection.yml
